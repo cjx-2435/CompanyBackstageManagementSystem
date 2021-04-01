@@ -99,6 +99,7 @@ export default {
     },
   },
   mounted() {
+    console.log(window);
   },
 };
 </script>
